@@ -1,0 +1,2 @@
+# SegmentationTechniques
+Técnicas de segmentación
